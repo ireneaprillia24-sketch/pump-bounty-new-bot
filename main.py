@@ -1,8 +1,8 @@
 import time
 import requests
 
-TOKEN = "ISI_TELEGRAM_BOT_TOKEN"
-CHAT_ID = "ISI_CHAT_ID"
+TOKEN = "8906462406:AAF0UirurFTZHNUJVXJfRybZUYPbKBBRBBI"
+CHAT_ID = "8804568232"
 
 seen = set()
 
